@@ -34,3 +34,7 @@ sudo dd if=snake.bin of=/dev/sdX bs=512 count=1 conv=notrunc
 * Self-collision detection
 * Score tracking
 * Tail growth logic
+
+## Screenshot
+![snake](screenshot.png)
+
